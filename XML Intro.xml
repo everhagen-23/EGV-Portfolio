@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>TWENTY-SECOND DAY.</header>
+    <date date="08/31/58">August 31, 1858. </date>
+    <message><dest from="Valentia">Valentia to Newfoundland.</dest>
+        <sent time="1.30 PM">Sent 1.30 P.M.</sent>—<text>“<question>Can you read?</question> We have
+            two Government messages. <question>Will you take?</question>
+            <req>Reply direct</req>.”</text>
+    </message>
+    <message><dest from="Newfoundland">Newfoundland to Valentia.</dest>
+        <sent time="1.37 PM">Sent 1.37 P.M.</sent>—<text>“<req>Try, but
+        send</req>.”</text></message>
+
+    <message><dest from="Valentia">Valentia to Newfoundland. </dest><sent time="3.41 PM">Sent 3.41
+            P.M.</sent>—<text>“The Military Secretary to Commander-in-Chief, Horse Guards, London.
+            To General Trollope, Halifax, Nova Scotia:— The Sixty-second Regiment is not to return
+            to England.”</text></message>
+
+    <add>[This message and that which will be found further on in regard to the Thirty-ninth
+        Regiment, saved to the British Government the sum of fifty thousand pounds (250,000
+        dollars), by avoiding the shipment and transportation of troops.] </add>
+    <message><dest from="Newfoundland">Newfoundland to Valentia.
+            </dest><sent>Sent</sent>—<text>“This received:—The Military Secretary to
+            Commander-in-Chief, Horse Guards, London.”</text></message>
+    <message><sent>Sent</sent>—<text>“‘Trollope,’ understand. <req>Go on after Scotia</req>.”</text>
+    </message>
+    <message><sent>Sent</sent>—<text>“<question>Is it finished after ‘England?</question>’ ”</text>
+    </message>
+    <message><dest from="Valentia">Valentia to Newfoundland.</dest>
+        <sent time="4.00 PM">Sent 4 P.M.</sent>—<text>“Yes. <req>Now take another</req>.
+                <question>Are you ready?</question>”</text></message>
+
+    <message><dest from="Newfoundland">Newfoundland to Valentia. </dest><sent time="4.50 PM">Sent
+            4.5 P.M.</sent>—<text>“Yes, <req>send</req>.”</text></message>
+
+    <message><dest from="Valentia">Valentia to Newfoundland. </dest><sent time="9.30 PM">Sent 9.3
+            P.M.</sent>—“<text>The Military Secretary to Commander-in-Chief, Horse Guards, to
+            General Officer commanding, Montreal, <na>Canada:—The Thirty-ninth Regiment is not to
+                return</na> to England.”</text></message>
+
+    <message><dest from="Newfoundland">Newfoundland to Valentia.
+                </dest><sent>Sent</sent>—<text>“<req>I want you to repeat
+        ‘Canada.’</req>”</text></message>
+
+    <message><dest from="Valentia">Valentia to Newfoundland. </dest><sent time="10.50 PM">Sent 10.5
+            P.M.</sent>—<text>“Can’t read. <req>Try‘Daniel’s</req>.”</text></message>
+
+    <message><dest from="Newfoundland">Newfoundland to Valentia. </dest><sent time="12.00 PM">Sent
+            12 P.M.</sent>—<text>“<req>Repeat from ‘Canada’ to ‘return.’</req>”</text></message>
+</root>
