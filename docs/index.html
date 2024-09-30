@@ -10,44 +10,69 @@
             It holds important information about the website's contents.
             The text inside the <title> element does show in the top tab of a web browser. 
              The <head> is where we will include info about styling the site, too. -->
-        <title>EGV Starter</title>
+        <title>EGV Home</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="icon" href="images/PFP.png" type="image/icon type"> </link>
+        <link rel="icon" href="images/navbar.png" type="image/icon type"> </link>
         <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
-    <body> 
+    <body>
         <nav>
-            <img class="photo" src="images/navbar.png"
-                width= "150" alt="navigation bar image" />
-            <ul class="menuB">
-                <li><a href="index.html" style= "font-size: 35px">Home</a></li>
-                <li><a href="gallery.html" style= "font-size: 35px">Gallery</a></li>
-                
+            <img class="photo" src="images/navbar.png" width="150" alt="navigation bar image" />
+            <ul>
+                <li>
+                    <a href="index.html" style="font-size: 35px">Home</a>
+                </li>
+                <li>
+                    <a href="gallery.html" style="font-size: 35px">Gallery</a>
+                </li>
+                <li>
+                    <a href="resume.html" style="font-size: 35px">Resume</a>
+                </li>
+                <li>
+                    <a href="reflection.html" style="font-size: 35px">Reflection</a>
+                </li>
+                <li>
+                    <a href="extra.html" style="font-size: 35px">Extra</a>
+                </li>
             </ul>
         </nav>
-        <!-- CONTENT FOR DISPLAY. The <body> element holds the content we see in the display window on the web browser.-->
-        <h1 style="font-size: 60px;">Hello World</h1>
-        <p> I am Emma. Here is <a
-            href="https://htmlcolorcodes.com/">a link to an external
-            website</a>. It has a bunch of awesome hex codes! </p>
-        <span>One of the best resources for learning HTML is <a href="https://www.w3schools.com/html/default.asp" >w3Schools</a>. 
-            I'm keeping these links on the site for now because I will most certainly need them for reference again.</span>
-        <h2 style= "font-size: 40px;color:White;font-family:verdana;-webkit-text-stroke-width: 2 px;-webkit-text-stroke-color: black;">I wonder if I can add <b>gifs</b>?</h2>
-        <img src="images/sprite-3.gif" 
-            width="100"/>
-        <img src="images/sprite-3.gif" 
-            width="100"> </img>
-        <img src="images/sprite-3.gif" 
-            width="100"> </img>
-        <p style= "font-size: 25px;color:White;font-family:verdana;-webkit-text-stroke-width: 2 px;-webkit-text-stroke-color: black;"> <b>it appears that I can!</b></p>
-        <p style= "font-size: 30px;color:White;font-family:verdana;-webkit-text-stroke-width: 2 px;-webkit-text-stroke-color: black;"><i> <a href="https://www.geeksforgeeks.org/how-to-add-icon-logo-in-title-bar-using-html/">Here</a> are some sites that I used to figure stuff out. <a href="https://imagekit.io/blog/how-to-resize-image-in-html/">Here</a> too. </i></p>
-        <figure>
-            <img src="images/dinosaur.png"
-            width="500"/>
-            <figcaption style= "font-size: 15px;color:White;font-family:verdana;-webkit-text-stroke-width: 2 px;-webkit-text-stroke-color: black;text-align:center;">a very scary dinosaur</figcaption>        </figure>
-            
-<figure>            <img src="images/asteroid.png" 
-                width="500"></img><figcaption style= "font-size:  60px;color:White;font-family:verdana;-webkit-text-stroke-width: 2 px;-webkit-text-stroke-color: black;text-align:center;">uh oh....</figcaption> </figure>
+        <h1>ABOUT ME</h1>
+        <section class="block1">
+            <p>Hi! I am Emma Verhagen and this is my DIGIT website. I'm currently a freshman at PSU
+                Behrend. There will be a picture of me to the right eventually, but I don't have one
+                on my computer so it is my DND character instead, you will probably see her a few
+                times as I have a lot of spare pngs of her sitting around to use as placeholders.
+                Currently I don't have a ton of stuff to put on here right now but I do technically
+                have a resume and gallery. Eventually I will probably put something above this
+                section but as of now I have no idea what. Below are some gifs of things that I
+                like! <img src="images/temp.png"
+                    style="padding: 5px; border-radius: 8px;margin-left: auto;margin-right: auto;height:250px; align:right"
+                 /></p>
+            <ol style="align:center">
+                <li><img src="images/utdr.gif"
+                        style="width:15em;height:9em; border-radius: 8px; border: 3.5px solid #b48977;"
+                        class="cropimg" /></li>
+                <li><img src="https://giffiles.alphacoders.com/146/146825.gif"
+                        style="width:15em;height:9em; border-radius: 8px; border: 3.5px solid #b48977;"
+                        class="cropimg" /></li>
+                <li><img
+                        src="https://images.squarespace-cdn.com/content/v1/602838713ea3482091edb242/c998fe7b-1f12-4e86-9c5b-a720134d32a2/Magnus-01.jpg"
+                        style="width:15em;height:9em; border-radius: 8px; border: 3.5px solid #b48977;"
+                        class="cropimg" /></li>
+                <li><img
+                        src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/f/fa/Splatoon_Signals.gif/300px-Splatoon_Signals.gif"
+                        style="width:15em;height:9em; border-radius: 8px; border: 3.5px solid #b48977;"
+                        class="cropimg" /></li>
+            </ol>
+        </section>
+        <section class="block1">
+            <h2 style="    text-align: center
+                ">WHERE TO FIND ME:</h2>
+            <ul style="font-size: 20px; text-align: center">
+                <li><a href="https://github.com/everhagen-23/EGV-Portfolio">github</a></li>
+                <li><a href="mailto:egv5088@psu.edu">email</a></li>
+            </ul>
+        </section>
     </body>
 </html>

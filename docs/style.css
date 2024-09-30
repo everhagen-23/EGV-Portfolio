@@ -1,63 +1,96 @@
-            body {
-            
-                background-image: url('https://i.pinimg.com/originals/50/8e/5f/508e5f51008b5a3335c47e9a192048a8.jpg');
-                background-repeat: no-repeat;
-                background-attachment: fixed;
-            cursor: url('images/vclicker.png'), auto;
- 
- background-size: cover;
-      color: white;
-      font-family:verdana
-}
-h1{
-    color: white;
-    font-family: verdana;
-    font-size: 45px;
--webkit-text-stroke: 1.5px black;
-  font-weight: 1000;
-  text-align: center 
-}
-h2{
-    color: white;
-    font-family: verdana;
-    font-size: 35px;
--webkit-text-stroke: 1.5px white;
-  font-weight: 1000;
-}
-p{
-    color: white;
-    font-family: verdana;
-    font-size: 25px;
--webkit-text-stroke: 1px black;
-  font-weight: 1000;
-}
-span {
-    color: white;
-    font-family: verdana;
-    font-size: 15px;
--webkit-text-stroke: .5px black;
-  font-weight: 1000;
-}
-a{
-    color: blue;
-    font-family: verdana;
--webkit-text-stroke: .5px #26ffbe;
-  font-weight: 1000;
-}
+body {
 
+    background-image: url("images/bbg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    cursor: url('images/vclicker.png'), auto;
+
+    background-size: cover;
+    color: white;
+    font-family: verdana
+}
 nav {
-    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/900/616/small/fire-design-on-black-background-free-photo.jpg);
-    height: 150px;
+    background-color:#231a17;
+    height: 125px;
     display: flex
 }
+section.menu {
+    background: #231a17;
+    padding: 4px
+}
+h1 {
+    color: #e5b099;
+    font-family: verdana;
+    font-size: 45px;
+    -webkit-text-stroke: 1px;
+    font-weight: 750;
+    text-align: center
+}
+p {
+    display: flex;
+    padding: 25px;
+    padding-top: 0px;
+    color: #b48977;
+    font-family: verdana;
+    font-size: 25px;
+    font-weight: 500;
+}
+h2 {
+    display: flex;
+    padding: 25px;
+    padding-bottom: 2px;
+    color: #b48977;
+    font-family: verdana;
+    font-size: 30px;
+    font-weight: 1000;
+}
+a {
+    color: blue;
+    font-family: verdana;
+    -webkit-text-stroke: .5px #26ffbe;
+    font-weight: 1000;
+}
+section.block1 {
+    background: #231a17;
+    padding: 4px
+}
+section.block2a {
+    background: #231a17;
+    padding: 0px;
+    border: 3px solid #b48977;
+}
+section.block2b {
+    background: #694a4a;
+    padding: 0px;
+    border: 3px solid #b48977;
+    color: #231a17
 
+}
 li {
-        display: inline;
-        padding-left:5vw;
-        }
+    display: inline;
+    padding-left: 5vw;
+}
 figcaption {
     color: white;
     font-family: verdana;
     font-size: 17px;
-  padding: 30px
+    padding: 30px
+}
+.cropimg {
+    width: 15em;
+    height: 9em;
+    border-radius: 8px;
+    border: 3.5px solid #b48977;
+
+}
+.gal {
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    float: right;
+    width: 10em;
+    height: 6em;
+    border-radius: 8px;
+    border: 3.5px solid #b48977;
+
 }
