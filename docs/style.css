@@ -10,8 +10,7 @@ body {
     font-family: verdana
 }
 nav {
-    background-color:#231a17;
-    height: 125px;
+    background-color: #231a17;
     display: flex
 }
 section.menu {
@@ -83,6 +82,13 @@ figcaption {
     border: 3.5px solid #b48977;
 
 }
+.v {
+    display: flex;
+   padding-bottom: 1px; padding-top: 1px;padding-left: 25px;
+    color: #b48977;
+    font-family: verdana;
+    font-size: 25px;
+    flex-direction: column;    }
 .gal {
     margin-left: auto;
     margin-right: auto;
@@ -92,5 +98,8 @@ figcaption {
     height: 6em;
     border-radius: 8px;
     border: 3.5px solid #b48977;
+    object-fit: cover;
+
 
 }
+.resume {padding-bottom: 1px; padding-top: 1px;padding-left: 25px;}
