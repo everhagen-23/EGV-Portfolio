@@ -17,6 +17,9 @@ section.menu {
     background: #231a17;
     padding: 4px
 }
+img {
+   display: flex 
+}
 h1 {
     color: #e5b099;
     font-family: verdana;
@@ -32,7 +35,6 @@ p {
     color: #b48977;
     font-family: verdana;
     font-size: 25px;
-    font-weight: 500;
 }
 h2 {
     display: flex;
@@ -102,4 +104,10 @@ figcaption {
 
 
 }
+#navbar { 
+    width: 100%; 
+    height: auto; /* Maintain aspect ratio */ 
+    transition: opacity 1s ease; /* Smooth transition */ 
+} 
+
 .resume {padding-bottom: 1px; padding-top: 1px;padding-left: 25px;}
