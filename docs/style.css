@@ -55,12 +55,12 @@ section.block1 {
     background: #231a17;
     padding: 4px
 }
-section.block2a {
+figure.block2a {
     background: #231a17;
     padding: 0px;
     border: 3px solid #b48977;
 }
-section.block2b {
+figure.block2b {
     background: #694a4a;
     padding: 0px;
     border: 3px solid #b48977;
