@@ -18,7 +18,7 @@ section.menu {
     padding: 4px
 }
 img {
-   display: flex 
+    display: flex
 }
 h1 {
     color: #e5b099;
@@ -36,6 +36,14 @@ p {
     font-family: verdana;
     font-size: 25px;
 }
+strong {
+    padding: 7px;
+    padding-top: 0px;
+    color: #b48977;
+    font-family: verdana;
+    font-size: 25px;
+}
+
 h2 {
     display: flex;
     padding: 25px;
@@ -86,11 +94,14 @@ figcaption {
 }
 .v {
     display: flex;
-   padding-bottom: 1px; padding-top: 1px;padding-left: 25px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-left: 25px;
     color: #b48977;
     font-family: verdana;
     font-size: 25px;
-    flex-direction: column;    }
+    flex-direction: column;
+}
 .gal {
     margin-left: auto;
     margin-right: auto;
@@ -104,10 +115,20 @@ figcaption {
 
 
 }
-#navbar { 
-    width: 100%; 
-    height: auto; /* Maintain aspect ratio */ 
-    transition: opacity 1s ease; /* Smooth transition */ 
-} 
+#navbar {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    transition: opacity 1s ease; /* Smooth transition */
+}
 
-.resume {padding-bottom: 1px; padding-top: 1px;padding-left: 25px;}
+.resume {
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-left: 25px;
+}
+a.nl {
+    color: #e5b099;
+    -webkit-text-stroke: .5px #b48977;
+        padding: 5px;
+    padding-top: 0px;
+}
