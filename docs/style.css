@@ -53,6 +53,15 @@ h2 {
     font-size: 30px;
     font-weight: 1000;
 }
+h3 {
+    display: flex;
+    padding: 25px;
+    padding-bottom: 2px;
+    color: #b48977;
+    font-family: verdana;
+    font-size: 27px;
+    font-weight: 1000;
+}
 a {
     color: blue;
     font-family: verdana;
@@ -84,8 +93,8 @@ figcaption {
     font-family: verdana;
     font-size: 17px;
     padding: 30px;
-        text-align: center
-    
+    text-align: center
+
 }
 .cropimg {
     width: 15em;
@@ -131,24 +140,46 @@ figcaption {
 a.nl {
     color: #e5b099;
     -webkit-text-stroke: .5px #b48977;
-        padding: 5px;
+    padding: 5px;
     padding-top: 0px;
 }
 img.ta1 {
-display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
     object-fit: cover;
     border-radius: 8px;
 
 }
 img.ta2 {
-display: inline;
-  margin-left: auto;
-  margin-right: auto;
-  width: 45%;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
     object-fit: cover;
     border-radius: 8px;
+
+}
+.vgr1 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50em;
+    border-radius: 8px;
+    border: 3.5px solid #b48977;
+    object-fit: cover;
+
+
+}
+.vgr2 {
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    width: 27em;
+    border-radius: 8px;
+    border: 3.5px solid #b48977;
+    object-fit: cover;
+
 
 }
