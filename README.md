@@ -1,2 +1,0 @@
-# EGV-Portfolio
-Hello

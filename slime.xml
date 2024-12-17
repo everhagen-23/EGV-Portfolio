@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root><intro>For the simplest of all slime recipes, all you need is <ing>cornstarch</ing>.</intro> Just
-            <step><action wordType="verb">dump</action> some into a bowl, add some water,</step>
-    <step>&amp; start mixing.</step>
-    <step>Keep <action wordType="verb">adding</action> water until it reaches the consistency you
-        want (a good place to start is 2 parts cornstarch to 1 part water).</step>
-    <step type="otp">You can also add food coloring to make it look more legit.</step>
-</root>
