@@ -1,0 +1,20 @@
+FR = Find and Replace
+MR = Manually Replace
+
+FR: "&" -> "&amp;"
+FR (dot matches all): "^.+" -> "<xml>\0</xml>"
+FR (no dot matches all): "^.+" -> "<movie>\0</movie>"
+FR: "(<movie>)(.+?)(\t)" -> "\1<title>\2</title>\3"
+MR: Fix <xml> and <movie> order for start and end of file to avoid twisted tags.
+FR: "(</title>\t)(\d{4})(\t)" -> "\1<year>\2</year>\3"
+FR: "(\t)(\d+ \w+)(</movie>)" -> "\1<runTime>\2</runTime>\3"
+FR: "(</year>\t)("\w*+..\w*+")(\t)" -> "\1<year>\2</year>\3"
+FR: "(</year>\t)(\w+)(\t)" -> "\1<country>\2</country>\3"
+FR: "(</year>\t)("\w*+..\w*+")(\t)" -> "\1<country>\2</country>\3"
+--> Note: I am sure there is an easier way to do this but I could not figure it out.
+FR: "(</year>\t)("(</year>\t)("\w*+..\w*+..\w*+")(\t)")(\t)" -> "\1<country>\2</country>\3"
+FR: "(</year>\t)("(</year>\t)("\w*+..\w*+..\w*+..\w*+")(\t)")(\t)" -> "\1<country>\2</country>\3"
+FR: "(</year>\t)("(</year>\t)("\w*+..\w*+..\w*+..\w*+..\w*+")(\t)")(\t)" -> "\1<country>\2</country>\3"
+FR: "(</year>\t)("(</year>\t)("\w*+..\w*+..\w*+..\w*+..\w*+..\w*+")(\t)")(\t)" -> "\1<country>\2</country>\3"
+FR: "(</year>\t)("(</year>\t)("\w*+..\w*+..\w*+..\w*+..\w*+..\w*+..\w*+")(\t)")(\t)" -> "\1<country>\2</country>\3"
+FR: "(</year>\t)("(</year>\t)("\w*+..\w*+..\w*+..\w*+..\w*+..\w*+..\w*+..\w*+")(\t)")(\t)" -> "\1<country>\2</country>\3"

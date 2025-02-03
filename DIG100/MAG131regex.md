@@ -1,0 +1,315 @@
+[INT. MAGNUS INSTITUTE, ARCHIVES, JOHN’S OFFICE]
+[TAPE CLICKS ON.]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I found this tape tucked in a corner of my desk drawer (sigh) covered in cobwebs. I suppose subtlety has gone out the window a bit, and the question is now simply… how much I trust the Spider to have my best interests at heart.
+Hm. I suspect my assuming it has a heart might be a clue I’m looking at this the wrong way. (sigh) Even so, and – leaving aside the matter of Gertrude’s actions for a moment – what is it trying to tell me with this? Is it about… rituals? About getting Daisy back?
+About – About an anchor. What was it she said, “the siren call of flesh.” Hm. It’s possible, I suppose. It would – hurt, but – well, what’s another scar?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)(small sigh) It’s been two weeks since I heard from Basira. I’m not waiting any longer. I’m getting Daisy back.
+End recording.
+[TAPE CLICKS OFF.]
+[CLICK]
+[DEEP BREATH]
+[BREATHING INTENSIFIES]
+[DETERMINED EXHALATION]
+[THUNK]
+[A WHIMPER]
+[WET RIPPING, AS OF EXTRACTING A BLADE FROM FLESH]
+[PAINED SOUNDS]
+[TAPE CRACKLING AS THE ARCHIVIST GRUMBLES AND BREATHING EVENS OUT]
+[CLEARING OF THROAT AS A SECOND CLEAVING IS ATTEMPTED]
+[THUNK]
+[MORE WHIMPERING]
+[FLESHY EXTRACTION AND TAPE CRACKLING AGAIN]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Pained frustration] Oh, come on… Everyone else can carve up the Archivist, but when he actually needs it…
+[NOISE OF FRUSTRATION AS METAL CLATTERS TO THE GROUND]
+MELANIE
+What’re you doing?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Surprised] Oh! Uh…
+[CLOSES DESK DRAWER]
+Melanie, I-I’m… S-Sorry, I didn’t, er… I didn’t know you were there.
+MELANIE
+[Enunciating carefully] What are you doing?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I’m… Would you believe I’m… trying to save Daisy?
+MELANIE
+[Sharply] With more bullshit surgery?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Oh I… Melanie, I-I-I’m so sorry.
+MELANIE
+[Weary] Oh, fuck off!
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I was trying to save your life.
+MELANIE
+Yes, well… you did. I think. But I also, y’know, see your face now, when I wake up screaming. I feel you digging into my leg. Chalk it up as a win for Team Archive, I guess.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I wanted to ask you.
+MELANIE
+And if you had, we wouldn’t be talking right now. I’d have said no, and I’d probably have hurt you. Basira was right. The only way to do it was to completely betray my trust, and destroy any remaining sense of safety.
+So, yes. Thank you.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Yeah, I-I’m… I’m surprised you can stand to see either of us.
+MELANIE
+[Frustratedly] Who else is there? I mean, Basira is… heh. She’s been the only one for a long time and, yes, I, sort of, maybe, hate her now. I don’t know. I can’t look at her without my leg hurting. But what else am I going to do? I don’t want to be on my own, and I’m stuck here. So…
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Basira said you were doing better.
+MELANIE
+[Distressed] Would you just stop? [Getting agitated] This isn’t better. I’m not dying, and I don’t want to kill you. It’s – It’s… it’s just different! Yes, it’s sort of, ‘better’, maybe, but… but I can’t –
+ARCHIVIST (BACKGROUND)
+No… Right, no I – Y-Yeah, Melanie –
+Melanie…
+MELANIE
+Don’t tell me to calm down! Don’t you dare!
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Right, yes, I…
+[MELANIE EXHALES, REGATHERING COMPOSURE]
+MELANIE
+Basira is… um. Basira deals in ‘intel’ these days, in usable data, assets. Not feelings. Not people. Crying, shaking, nightmares… that is better. It doesn’t feel like it, but as far as Basira sees it… I’m not ‘compromised’ anymore. And… that… is better.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)At least it’s out. Maybe… maybe It’s enough to start healing? Start letting go of the anger.
+MELANIE
+Oh just stop! Just stop and listen!
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Okay.
+MELANIE
+[Charged tones] Yes, the bullet was bad, right, but it didn’t make me angry. Anger is… Anger’s been all I’ve had for a very long time. Years. Maybe since… oh, I, I don’t know. But everything I’ve done, everything I pushed for was because I was angry.
+Angry at being passed over, being disrespected, ignored. That sort of anger, it – it powers you. Right up until it slips out and hurts someone.
+I hurt someone. And then one day, I suddenly have this thing that takes all that rage, and it holds it, tells me it’s right, that it’s me. It didn’t stay in my leg because of some ghostly master plan. It stayed because I wanted it.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Realising] Shit.
+MELANIE
+Yes.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)…
+Melanie, I –
+MELANIE
+So, why are you trying to chop off your finger?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Awkwardly] Oh! I… I um… I nee-need a… I’ve been thinking of it a-as an anchor. I think. I… know. Something I have a connection to, th-that I can use to find my way out of the Coffin when I reach Daisy. I-I figured the strongest anchor would be… part of my own body.
+MELANIE
+Okay. So… just cut it off.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I’m doing my best.
+MELANIE
+Hmph. Can’t go through with it?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Oh, th-the blade keeps going in. And… it hurts. Hurts plenty.
+But then it heals up. Pretty much the moment I take it out. No wound, no scar, nothing.
+MELANIE
+I could try?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I… don’t think that would be a good idea right now.
+MELANIE
+Maybe not.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I mean, you’d think I’d have a better idea how to do it.
+All these… all these statements and…
+[SMALL LAUGH]
+You know who I need? I need the Boneturner. [Sighs] Just reach in and grab a rib. Job done.
+MELANIE
+…
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)What?
+Melanie?
+MELANIE
+Come with me.
+[CLICK]
+[CLICK]
+[FOOTSTEPS ON STONE, VOICES SOUND ECHOEY]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I was down here just yesterday, and there wasn’t –
+MELANIE
+Here.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Oh. This, this door… It shouldn’t be here.
+MELANIE
+Yes.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I, uh… I don’t want to open it.
+I’m not going to.
+[MELANIE SIGHS, KNOCKS ON THE DOOR]
+MELANIE
+She’s been helping us.
+https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims[Sharply] It has never helped anyone. Not without a cost.
+[THE DOOR CREAKS OPEN]
+HELEN
+If I am an “it”, Archivist, then what does that make you?
+[THE DOOR CREAKS CLOSED]
+MELANIE
+Hi, Helen.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Coldly] I have been told you can help.
+HELEN
+I have been trying to. But the last time you were very rude to me.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)You’re still wearing her face.
+HELEN
+Not this again. I’m not “wearing” anything, Archivist. I am at least as much ‘Helen Richardson’ as you are the ‘Jonathan Sims’ that first joined this Institute. Things change. People change. It happens.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)We’re not people, though, are we? Not any more.
+HELEN
+Names. Categories. It’s all so important to you, isn’t it? You do know none of it’s actually real. It’s all just meaningless boxes.
+MELANIE
+Is… he still in there?
+HELEN
+Oh, yes. He’s not exactly something I can… digest. He’s a bit of an irritant, to be honest. If you’re looking to let him out, I could be persuaded.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)When did you say they attacked?
+MELANIE
+A couple of months ago.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)And he’s been in there… ever since?
+HELEN
+I helped clean up.
+MELANIE
+After I, uh… took care of things.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)All this time. Why didn’t anyone tell me?
+MELANIE
+Basira said not to.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I see.
+Why didn’t you kill him?
+MELANIE
+I stabbed him in three different hearts. Didn’t work. If you want to go hunting for a fourth, knock yourself out.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I…er… I’m alright, I think
+MELANIE
+So, what’s the plan?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Right. I go in, I offer freedom if he… helps. Then I hope he doesn’t kill me. If he tries anything…
+HELEN
+I would suggest running. Try to find a door.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Naturally.
+[DEEP BREATH]
+Oh, er… Er, pass the recorder?
+MELANIE
+Seriously? Fine.
+[RECORDER IS PASSED TO THE ARCHIVIST]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Right.
+[THE DOOR CREAKS OPEN]
+[FOOTSTEPS]
+[THE DOOR CREAKS CLOSED]
+[ECHOES &amp; STATIC AS THE ARCHIVIST WANDERS THE DISTORTION’S CORRIDORS]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Hello?
+[MORE WALKING]
+Is, uh… Uh, hello?
+[KEEPS WALKING]
+Did I –
+[SOFT SQUELCHING STEPS]
+No. W-Wait… I came from…
+[WET, FLESHY MOVEMENT AND CRACKING BONES]
+Er, J-Jared Hopworth?
+JARED
+That’s what it says on me licence.
+(Transcriber’s Note: Jared’s speech is accompanied by continuous sounds of wet, mobile meat and the occasional bony snap or click. Too much for me to record individually. Just try to imagine that as you’re reading… if you care to, that is.)
+Mind you, the picture’s a bit out of date.
+[WET, MEATY LAUGH]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Y-yes.
+JARED
+I try to kill you. And you throw me in here. And now what? You just walk in?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I-I didn’t – That wasn’t me.
+JARED
+Your people. Your gaff.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)And you wanted to kill… me, specifically?
+JARED
+Still do.
+[OMINOUS SHIFTING, CRACKING &amp; POPPING]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Right. But… you know if you do, you’re never getting out of this place.
+JARED
+…
+What do you want?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I, uh… I want a favour.
+JARED
+For letting me out?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Yes.
+JARED
+Alright.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Oh. O-Okay. D-Do you need to know… w-what it is?
+JARED
+Not much you could want, comin’ to me. Put summat in. Take summat out. Which is it?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Take something out.
+A bone. A rib, probably. S-Something I won’t miss.
+JARED
+Done. Come ‘ere.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I, uh… H-How do I know you won’t just reach in and kill me? W-W-What guarantees do I have?
+JARED
+Guarantees? None. But I want to leave more than I want to kill you. Not like it was my idea in the first place.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)So…
+[Compellingly] Why did you and the others attack us?
+JARED
+I was asked. You want my statement, that’s gonna cost you another rib.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)I-I could just pull the information out of you.
+[MENACINGLY MEATY MURMURS]
+JARED
+You could try.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Okay. Fine. A rib for me, a rib for you, your freedom and a statement.
+JARED
+Yeah. Alright.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Right. Statement first.
+JARED
+…
+Fine.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Uh. Statement of Jared Hopworth, the Boneturner.
+Statement begins.
+[THROATY LAUGH]
+JARED (STATEMENT)
+Where do you want me to start? Growing up? My folks? How ‘bout that growth spurt when I was nine? It left me taller than all the other kids. I hated them, the way they stared. But they were scared, and that felt good, even back then. It felt right. My Dad was proud of it too. He was a short man, bully, and watching me loom over people really made ‘im happy. Mum just scowled, but then… heh, she always did.
+I wrecked my school. I did have friends, but they left me, one by one, until all that I had were the dregs; the ones who stayed ‘coz they were too scared to leave. We were always either in trouble, or looking for it. Those were bad times. I tried to look ahead, but I couldn’t see anything. No future, no hope; just bitter parents, and whatever misery I could pass on to everyone else. God knows what would’ve happened if that little prick Sebastian hadn’t given me that book.
+I didn’t know what it was at first, not really. But it talked to me about bones and flesh and muscle and blood; the bits of myself I actually knew and liked. So I listened, and I read, and I learned. I fumbled through the lessons the book wanted to teach me, and my first try was clumsy. Stupid. Turns out, Dad didn’t like being tall nearly as much as he thought he would. And Mum didn’t like her new smile, either. So I left.
+I wandered around for a bit. Worked a lotta jobs where it didn’t matter what you looked like. There’s always a spot for someone who can get rid of people. You must have heard about me. I left plenty of people scared and crying, itching to tell someone what happened to ‘em. Some of them must have made it to you.
+There were others. Others of skin and hunger; they tried to talk to me about gods. They’d go on and on about remaking the world; of a new day of blood and flesh. I told them to piss off. I like the world just as it is. I take what I want and I make myself more, and when people look at me… that fear – it feels amazing. Some of my mates, the ones I helped find their proper bodies, they listened, and went to feed the hunger. Not me though. I never was that ambitious.
+The letters started comin’ in about two years ago. Good white paper, large print. Nice and simple. Dunno who sent them, they were never signed, and I dunno how they kept finding me. There was never much in them; normally just a name and a place or a time. I ignored the first couple, but they kept coming, and eventually I got curious. So, I followed the instructions in one of ‘em. I found Regan Hasnain of 70 Clairmont Gardens, and that got rid of most of my doubts. I don’t blame people for thinking that all bones are the same, most people don’t have much experience, but it’s not true. There are good bones, and there are bad bones, and Regan Hasnain had some very good bones in her. They were solid, healthy, and they jumped at my touch. I didn’t doubt the letters again.
+They came pretty regular after that. And they always led to summat good. Quality bones, a new mate, or some unlucky fool who wouldn’t look at me for the fear. It got so I trusted them. The letters, I mean. So I didn’t question them. There’s a lotta stuff in this world I’ve never understood, and these were no different. Then I got one about your lot, your Archives. Told me to go there and kill you. They even sent a picture.
+So I did. Well, I tried. Didn’t know about those tunnels or wherever this place is, but the pipes… they were wide enough for me and a few friends to squeeze through, bit by bit, one bone at a time.
+[DEMONSTRATIVE CRACKING ACCOMPANIES THIS]
+When we came up through the floor, it was wonderful. I don’t think I’ll ever forget the look on their faces. It was like their world had gone with the floor. The weak one legged it, and I thought the skinny one did too. There was just the copper. It weren’t dressed like one, but I know police when I smell it. They tried to run, but we were everywhere, and they couldn’t stop us undoing them for parts. You weren’t there, which was sad, but it made it easier.
+At least until the knife. I don’t know what the skinny one did, what she was, but that knife hurt. She screamed, and stabbed, and cut through all the others, ruining their perfect bodies. Then, she turned on me. Reached out with some of my hands, to get inside her, and pull her apart, and she cut them off. I got… scared. So I ran. I ran through the first door I found. And now I don’t know where I am.
+I’m startin’ to think the letters were a trap. Was it you? Did you want me here? ‘Coz if so, well played. Mind you, lot of trouble to go through just to lose a rib, so maybe not.
+That’s it, then.
+Do you want to do this, or what?
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)That’s it?
+[HE SNORTS]
+Hardly worth a rib.
+[JARED LOOMS FORWARD]
+[Placatingly] Alright! Alright.
+Is it, uh… Is is going to hurt?
+JARED
+Dunno. Doesn’t hurt me.
+[THE ARCHIVIST MAKES IT BE KNOWN THAT IT DOES RATHER]
+[EXTENDED SOUNDS OF MEAT AND BONE MOVEMENT]
+That’s yours. What’s it for?
+[PAINED SOUNDS OF RECOVERY]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Stumblingly] Um… A, A-An anchor
+JARED
+Huh. Right.
+Anyway, this one’s for me.
+[MORE MOBILE MEAT NOISES, THIS TIME OF INSERTION]
+Huh. That’s a weird one. Not sure I like it. Still. Mine now.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Weakly] I supp… I suppose it is.
+JARED
+You said I could leave.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Y-yes. Just, uh… I-If you start walking that way, I-I-I’m sure there’ll be a door for you.
+JARED
+There’d better be.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Y-Y-Yes, I, uh…
+[COLLAPSES]
+[CLICK]
+[CLICK]
+HELEN
+Still alive?
+MELANIE
+Seems to be, yes.
+HELEN
+And he’s certainly holding a bone. For some reason.
+MELANIE
+Said it was going to be an anchor.
+HELEN
+Hmm. Bodies are strange. Rather glad they’re not my concern anymore.
+MELANIE
+Must be nice.
+HELEN
+It really is.
+MELANIE
+…
+Did you let that… thing go?
+HELEN
+He found a door.
+MELANIE
+[Alert] Where did he come out?
+HELEN
+The door may have been in a wall some distance above a river.
+[MELANIE CHUCKLES]
+MELANIE
+Nice.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)[Groggy] Is it… um?
+HELEN
+All done.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Uh…
+[WINCES]
+Thank you. For your… uh. For your help.
+HELEN
+You are very welcome. I have decided that I support what you’re doing, and I’m happy to assist. I think we’ll all be much happier this way.
+MELANIE
+Basira’s not going to be happy that you let him out.
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)Basira isn’t here.
+And if this works, I’ll have Daisy waiting for her when she gets back, so I don’t think she’ll be thinking too much about Jared.
+MELANIE
+You’re going now?
+[PAINED CHUCKLING]
+[PAINED BREATHING]
+[ARCHIVIST](https://antifandom.com/the-magnus-archives/wiki/Jonathan_Sims)No. No, now I am going for a lie down. That was… that was not what I expected.
+MELANIE
+Come on, you can use Basira’s cot.
+HELEN
+Good luck, Archivist. Be seeing you.
+[CLICK]
