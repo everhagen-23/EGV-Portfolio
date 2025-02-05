@@ -1,0 +1,10 @@
+FR: Find and Replace
+MR: Manually Replace
+
+FR: "^\s+" -> ""
+FR: "^.+" -> "<line>\0</line>"
+FR: "(<line>)([I|V|X|L|C]+)(</line>)" -> "<sonnet number="\2">"
+FR: "(<sonnet number=)" -> "</sonnet> \1"
+MR: Remove "</sonnet>" from the start of the document and add "</sonnet>" at the end.
+MR: Replace </lines> on the first two lines with tags <title> and <author> respectively. 
+FR (dot matches all): "^.+" -> "<xml>\0</xml>"
