@@ -12,3 +12,4 @@ FR: "(</p>\n)(<p>)([X|I|V]+\..+)(</p>)" -> "\1 <title>\3</title>"
 FR: "".+?"" -> "<quote>\0</quote>"
 MR: Add proper tags for introductory information (book, toc, author, etc.)
 MR: Add </p> tag at end of the document
+FR (dot matches all): ".+" -> "<xml>\0</xml>"
