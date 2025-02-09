@@ -1,0 +1,6 @@
+FR = Find and Replace
+MR = Manual Replace
+
+FR: "(\n\n)" -> "\n<sp>\n</sp>\n"
+MR: Add extra <sp> and </sp> tags at start and end.
+FR (dot plus all): ".+" -> "<xml>\0</xml>
