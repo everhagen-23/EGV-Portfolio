@@ -1,0 +1,10 @@
+start = xml
+xml = element xml {header,movie+}
+header = element header {text}
+
+movie = element movie {title, date, country, runTime}
+title = element title {text}
+date = element date {text}
+country = element country {text}
+runTime = element runTime {unit, text}
+unit = attribute unit {"min"}
